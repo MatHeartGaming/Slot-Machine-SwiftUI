@@ -9,5 +9,7 @@
 		<key>UIImageName</key>
 		<string>gfx-casino-chips</string>
 	</dict>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
 </dict>
 </plist>

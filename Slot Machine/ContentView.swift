@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     //MARK: - PROPERTIES
-    @State private var showSplashScreen = false
+    @State private var showSplashScreen = true
     
     //MARK: - BODY
     var body: some View {
